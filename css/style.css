@@ -142,7 +142,8 @@ a {
     /*text-decoration-style: dotted;*/
 }
 a:hover, a:focus {
-    color: #000000;
+    /* color: #000000; */
+    color: #1b9ce6;
     -webkit-transition: color 0.2s ease;
     -moz-transition: color 0.2s ease;
     -o-transition: color 0.2s ease;
@@ -199,3 +200,10 @@ a img:hover,
     }
 
 }
+
+/* footer {
+    position: fixed;
+    bottom: 5px;  
+    width: 100%;
+
+} */
